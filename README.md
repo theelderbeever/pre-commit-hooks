@@ -4,7 +4,7 @@ Config files for pre-commit hooks that I regularly use.
 
 ## Using the hooks
 
-1. Copy all of the from the config folder into the root directory of your project.
+1. Copy all of the config files from the config folder into the root directory of your project.
 1. Install `pre-commit` in your environment.
 
     ```bash
